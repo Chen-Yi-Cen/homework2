@@ -1,0 +1,4 @@
+﻿  Main.c
+C:\C_code\HW2\HW4.27\HW4.27\Main.c(10,13): warning C4047: '函式': 'const char *const ' 與 'int' 間接取值的層級不同
+C:\C_code\HW2\HW4.27\HW4.27\Main.c(10,13): warning C4024: 'printf': 型式和實質參數 1 不同的類型
+  HW4.27.vcxproj -> C:\C_code\HW2\HW4.27\HW4.27\x64\Debug\HW4.27.exe
